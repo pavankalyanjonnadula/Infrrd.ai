@@ -26,3 +26,7 @@ Ships = {(6,1), (5,2), (4,4), (9,7)}
 After the 2nd day, 3 Ships survive as Ship 7 dies.
 Ships = {(6,1), (5,2), (4,4)} 
 After the 2nd day the ships stop getting destroyed. 
+
+
+![alt test](https://github.com/pavankalyanjonnadula/Infrrd.ai/blob/master/InfrrdTaskPavan/Screenshot%202020-04-14%20at%206.45.20%20AM.png)
+
